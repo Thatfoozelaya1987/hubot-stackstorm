@@ -60,3 +60,4 @@ function Robot(name, enable_logging) {
 }
 
 module.exports = Robot;
+ST2_AUTH_USERNAME=testu ST2_AUTH_PASSWORD=testp HUBOT_SLACK_TOKEN=token ST2_ROUTE=mychannel PORT=8181 bin
